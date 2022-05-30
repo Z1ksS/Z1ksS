@@ -2,7 +2,7 @@
 <h3 align="center">I love to create and love to learn to do cool gaming systems for players!</h3>
 
 - 🌱 I’m learning **C++, Python, and game engines**
-- I'm experienced with **GLua, SQL/MySQL**
+- 🌱 I'm experienced with **GLua, SQL/MySQL**
 - 📫 How to reach me **z1kuslovrov@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
